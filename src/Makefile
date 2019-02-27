@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Copyright (c) 2017, 青岛中怡智能安全研究院有限公司
 # All rights reserved
-TARBALL_FILENAME=ibmtpm1119.tar.gz
+TARBALL_FILENAME=ibmtpm1332.tar.gz
 PATCHES=$(wildcard *.patch)
 # Note:
 # 1. Unzip the upstream source tarball;
